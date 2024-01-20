@@ -12,6 +12,8 @@ main:
     url: "/publications"
   - title: "Outreach"
     url: "/outreach/"
+  -title: "UHECR Sources"
+    url: "/uhecrsources"
   - title: "Useful links"
     url: "/useful_links/"
   - title: "Talks"
