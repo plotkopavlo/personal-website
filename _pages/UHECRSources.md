@@ -1,5 +1,5 @@
 ---
-permalink: /uhecrsource/
+permalink: /uhecrsources/
 layout: single
 author_profile: true
 title: "UHECR Sources"
