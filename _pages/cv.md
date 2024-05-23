@@ -29,14 +29,14 @@ Taras Shevchenko National University of Kyiv, Ukraine [01/09/2018 – 31/05/2020
 ## Bachelor's degree in Astrophysics (Diploma with honours)
 Taras Shevchenko National University of Kyiv, Ukraine [01/09/2014 –30/06/2018]   
 
-**Thesis title**: Vela Supernova remnant and its pulsar wind nebula: physical characteristics and radio emission
+**Thesis title**: Vela Supernova Remnant and its Pulsar Wind Nebula: Physical Characteristics and Radio Emission
 
 **Supervisors**: Hnatyk Bohdan
 
 # Work and research experience
 - **Visiting researcher**,
   
-    *Khalifa university, Abu Dhabi, UAE [30/10/2022 – 1/12/2022]*
+    *Khalifa University, Abu Dhabi, UAE [30/10/2022 – 1/12/2022]*
 
 - **Trainee Researcher**
 
@@ -100,10 +100,10 @@ Taras Shevchenko National University of Kyiv, Ukraine [01/09/2014 –30/06/2018]
 # Teaching and mentoring
 - Supervisor of Valentyna Babur during DESY Ukraine Winter School 2023, Zeuthen, Germany *[31/01/2023-10/03/2023]*. Project: **Ultra-High-Energy Cosmic Rays propagation in extragalactic space from a single source**.
 - Supervisor of Frederike Apel during DESY Summer School 2022, Zeuthen, Germany *[18/07/2022-08/09/2022]*. Project: **Modeling the Gamma-ray burst afterglow emission**. 
-- Teaching **Laboratory Practicum in Vacuum physics**. for elementary school students at DESY, Zeuthen, Germany *[26.8.2022]*
+- Teaching **Laboratory Practicum in Vacuum Physics**. For elementary school students at DESY, Zeuthen, Germany *[26.8.2022]*
 - Helping preparing lectures and tutorails for **Neutrino physics and astrophysics (theory)** at University of Oxford and Humboldt university, *[Winter semester 2020/21]*
 - Preparing tutorials for **Methodology of Science** for undergraduate students at Taras Shevchenko National University of Kyiv, Kyiv, Ukraine *[1/9/2019-14/12/2019]*
-- Tutor for **Laboratory Practicum in Astronomy** for undergraduate student at Taras Shevchenko National University of Kyiv, Kyiv, Ukraine *[1/9/2019-14/12/2019]*
+- Tutor for **Laboratory Practicum in Astronomy** for an undergraduate student at Taras Shevchenko National University of Kyiv, Kyiv, Ukraine *[1/9/2019-14/12/2019]*
 
 
 
@@ -121,9 +121,9 @@ Taras Shevchenko National University of Kyiv, Ukraine [01/09/2014 –30/06/2018]
 
 
 # Honours and awards 
-- **Scholarship of Zavtra.ua** *[2019]*. The largest private nationwide program dedicated to supporting talented youth in Ukraine. Out of 300 applicants, I secured the 12th position among the 100 students who were awarded the scholarship.
+- **Scholarship of Zavtra.ua** *[2019]*. The largest private nationwide program dedicated to supporting talented youth in Ukraine. Out of 300 applicants, I secured the 12th position among the 100 students awarded the scholarship.
 - **III place in Ukrainian Olympiad on Astronomy and Astrophysics ** *[2015]*
-- **Scholarship of President of Ukraine** *[2014]*. This is a scholarship awarded to the best students and winners of national and international competitions in Ukraine. 
+- **Scholarship of President of Ukraine** *[2014]*. This scholarship is awarded to the best students and winners of national and international competitions in Ukraine. 
 - **II place in Research paper defense Competition of Minor Academy of Sciences of Ukraine Student-members III stage** *[2014]*
 - **II place in Ukrainian Olympiad on Astronomy and Astrophysics** *[2014]*
 - **II place in Ukrainian Young Physicist Tournament** *[2014]*
@@ -131,7 +131,7 @@ Taras Shevchenko National University of Kyiv, Ukraine [01/09/2014 –30/06/2018]
 
 
 # Memberships
-- AstroSendbox *Ukraine [2021 – Current]*
+- AstroSandbox *Ukraine [2021 – Current]*
 - International Helmholtz-Weizmann Research School on Multimessenger Astronomy *Germany-Israel [2020 – Current]*
 - Local Organizing Committee of the Virtual Roentgen and Gamma Observatory (VIRGO.UA) *Ukraine [2014 – Current]*
 - Minor Academy of Sciences of Ukraine *Ukraine [2014 – 2019]*
