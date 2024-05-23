@@ -13,69 +13,56 @@ title: "CV"
 ## PhD in Theoretical Astroparticle Physics
 DESY Zeuthen within International Helmholtz-Weizmann Research School on Multimessenger Astronomy [01/09/2020 – Current]
 Zeuthen, Germany
-
 **Topic:** Signature of UHECR nuclei in astrophysical sources and propagation
-
 **Supervisors:** Winter Walter, Arjen van Vliet, Xavier Rodrigues.
 
 
 ## Master's degree in Astrophysics (Diploma with honours)
 Taras Shevchenko National University of Kyiv, Ukraine [01/09/2018 – 31/05/2020]
-
 **Thesis title**: Acceleration and non-thermal emission of cosmic rays in Vela Jr. Supernova remnant
-
 **Supervisors**: Hnatyk Bohdan and Iurii Sushch
 
 ## Bachelor's degree in Astrophysics (Diploma with honours)
 Taras Shevchenko National University of Kyiv, Ukraine [01/09/2014 –30/06/2018]   
-
 **Thesis title**: Vela Supernova Remnant and its Pulsar Wind Nebula: Physical Characteristics and Radio Emission
-
 **Supervisors**: Hnatyk Bohdan
 
 # Work and research experience
 - **Visiting researcher**,
-  
     *Khalifa University, Abu Dhabi, UAE [30/10/2022 – 1/12/2022]*
 
 - **Trainee Researcher**
-
     *DESY, Zeuthen, Germany [03/11/2019 – 03/12/2019], [17/02/2019 – 17/03/2019]*
-
+    
     **Topic:** Acceleration and non-thermal emission of cosmic rays in Supernova remnants
 
     **Supervisors:** Iurii Sushch
 
 - **Trainee Researcher**
-    
     *Astronomical Observatory of the Jagiellonian University, Krakow, Poland [01/07/2017 – 23/07/2017]*
 
     **Topic:** Simulation of radiation emission from classical novae
-    
+
     **Supervisor:** Lukasz Filip Stawarz 
 
 - **DESY Summer Student Programme 2019**
-    
     *DESY, Zeuthen, Germany [17/07/2019 – 05/09/2019]*
 
     **Topic:** Acceleration and non-thermal emission of cosmic rays in Supernova remnants
-    
+
     **Supervisors:** Iurii Sushch
 
 
 - **PhD student’s representative**
-    
     DESY, Zeuthen, Germany [01/04/2021 – 31/03/2022] 
 
 - **Student’s representative**
-
     *Taras Shevchenko National University of Kyiv, Ukraine [01/09/2018 – 31/05/2020]* 
+
 - **Secretary of Local Organizing Committee**
-    
     Young Scientists’ Conference on Astronomy and Space Physics, Kyiv, Ukraine [01/09/2018 – 01/09/2020]
 
 - **Web Development**
-    
     *KyivDev, Kyiv, Ukraine [01/10/2017 – 25/12/2018]*
 
     Front-end and back-end development
@@ -83,17 +70,11 @@ Taras Shevchenko National University of Kyiv, Ukraine [01/09/2014 –30/06/2018]
 
 
 # Digital skills 
-- **Scientific softs:**
+- **Scientific softs:** [PriNCe](https://github.com/joheinze/PriNCe), [PLUTO](http://plutocode.ph.unito.it/),[RATPaC](https://www.aanda.org/articles/aa/abs/2021/10/aa41194-21/aa41194-21.html), [CRpropa](https://https://crpropa.desy.de) 
 
-    [PriNCe](https://github.com/joheinze/PriNCe), [PLUTO](http://plutocode.ph.unito.it/),[RATPaC](https://www.aanda.org/articles/aa/abs/2021/10/aa41194-21/aa41194-21.html), [CRpropa](https://https://crpropa.desy.de) 
+- **Programming:** Python / C++ / Qt / IDL / Arduino / Mathematica / Git
 
-- **Programming:**
-
-    Python / C++ / Qt / IDL / Arduino / Mathematica / Git
-
-- **Web programming:**
-
-    HTML, CSS, JavaScript / Node.js / VueJS / PHP / MySQL / MongoDB
+- **Web programming:** HTML, CSS, JavaScript / Node.js / VueJS / PHP / MySQL / MongoDB
 
 
 

@@ -12,12 +12,13 @@ main:
     url: "/publications"
   - title: "Outreach"
     url: "/outreach/"
+  - title: "Talks"
+    url: "/talks/"
   - title: "UHECR Sources"
     url: "/uhecrsources"
   - title: "Useful links"
     url: "/useful_links/"
-  - title: "Talks"
-    url: "/talks/"
+
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
