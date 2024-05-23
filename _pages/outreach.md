@@ -21,7 +21,7 @@ I organized the International Cosmic Ray Day for Ukrainian school students in co
 - Strategizing various contingency plans to ensure the event could proceed, given the potential challenges arising from the ongoing war in Ukraine
 
 ## Astronomy Battles Tournament by AstroSendbox
-AstroSendbox is a nationwide Ukrainian astronomy competition designed for high school and undergraduate university students. You can learn more on the [official website] https://www.astrosandbox.com/fightsenglis). I liaise with sponsors from Germany and assist in organizing the event. Additionally, I'm a judge for the tournament.
+AstroSendbox is a nationwide Ukrainian astronomy competition designed for high school and undergraduate university students. You can learn more on the [official website](https://www.astrosandbox.com/fightsenglis). I liaise with sponsors from Germany and assist in organizing the event. Additionally, I'm a judge for the tournament.
 
 ## Judge Committee:
 - International Olympiad on Astronomy and Astrophysics *Ukraine [2022 – Current]*
