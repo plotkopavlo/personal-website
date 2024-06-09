@@ -29,4 +29,5 @@ Here are some interesting links I've collected. Maybe you'll find something new.
 - [YouTube list of vidoes on public speaking ](https://youtube.com/playlist?list=PLy-ihQWQDebvOFw1cIt6b12Qlb5ol05y6). My favorite videos: [How to sound smart in your TEDx Talk](https://youtu.be/8S0FDjFBj8o) and [How to avoid death By PowerPoint](https://youtu.be/Iwpi1Lm6dFo)
 -  [Presentation of scientific results](https://indico.desy.de/event/37353/contributions/139368/attachments/80516/105528/DESY_Winter_school_how_to_present.pdf) from DESY Ukrainian Winter School 2023
 -  [Color Universal Design](https://www.icrc2023.org/material_guidelines/2023/04/29/Color-Universal-Design.html) from ICRC2023. 
+-  [Colour scheme](https://personal.sron.nl/~pault/) that introduce effective colour schemes for scientific graphics, emphasizing the importance of distinct colours for all viewers, including those who are colour-blind, and categorizes data into qualitative, diverging, and sequential types, providing specific colour schemes and additional resources for each.
 
