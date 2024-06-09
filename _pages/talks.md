@@ -5,6 +5,12 @@ author_profile: true
 title: "Talks"
 ---
 ## Invited talks
+
+- 
+- [Ultra-high-energy cosmic rays and EeV neutrinos from jetted Active Galactic Nuclei](https://indico.desy.de/event/40283/sessions/15888/attachments/86122/114629/Plotko_APC10.pdf)
+  
+  Highlight talk *October 2023, DESY, Germany*  
+  
 - Houston, we have a problem with phenomenology 
   
   Invited semibar, *August 2023, Institute for Cosmic Ray Research University of Tokyo, Japan*
@@ -19,6 +25,11 @@ title: "Talks"
 
     
 ## Conferences
+
+
+- **Tidal disruption events as the origin of Ultra-high-energy cosmic rays and EeV neutrinos** 
+
+   DPG, March 2024, Karlsruhe, Germany
 
 - [Differences between Auger and TA spectra: Systematics or indication of a local astrophysical source?](https://drive.google.com/file/d/1nOWaZYGj7NTJsznzYWh1M2beINRSOmng/view?usp=sharing)
   

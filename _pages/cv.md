@@ -70,9 +70,9 @@ Taras Shevchenko National University of Kyiv, Ukraine [01/09/2014 –30/06/2018]
 
 
 # Digital skills 
-- **Scientific softs:** [PriNCe](https://github.com/joheinze/PriNCe), [PLUTO](http://plutocode.ph.unito.it/),[RATPaC](https://www.aanda.org/articles/aa/abs/2021/10/aa41194-21/aa41194-21.html), [CRpropa](https://https://crpropa.desy.de) 
+- **Scientific softs:** [PriNCe](https://github.com/joheinze/PriNCe), [PLUTO](http://plutocode.ph.unito.it/),[RATPaC](https://www.aanda.org/articles/aa/abs/2021/10/aa41194-21/aa41194-21.html), [CRpropa](https://https://crpropa.desy.de), IDL
 
-- **Programming:** Python / C++ / Qt / IDL / Arduino / Mathematica / Git
+- **Programming:** Python / C++ / Qt / Arduino / Mathematica / Git
 
 - **Web programming:** HTML, CSS, JavaScript / Node.js / VueJS / PHP / MySQL / MongoDB
 
@@ -89,6 +89,8 @@ Taras Shevchenko National University of Kyiv, Ukraine [01/09/2014 –30/06/2018]
 
 
 # Organizational experience
+- **DESY Ukraine Summer School 2024** *Zeuthen, Germany [16/07/2024-6/09/2024]*. Organizer
+- **Ukrainian International Cosmic Ray Day 2023** * [23/11/2023]*. Main organizer
 - **DESY Ukraine Winter School 2023** *Zeuthen, Germany [31/01/2023-10/02/2023]*. Organizer
 - **Ukrainian International Cosmic Ray Day 2022** * [22/11/2022]*. Main organizer
 - **APPEC Town Meeting 2022** * Berlin, Germany [9/06/2022]*. Chair of roundtables 
