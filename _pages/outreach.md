@@ -13,15 +13,18 @@ The premier international conference in Ukraine for bachelor, master, PhD studen
 - Secretary of Local Organizing Committee *[2018 - 2020]* 
 
 
-## Ukrainian International Cosmic Ray Day 2022 
-I organized the International Cosmic Ray Day for Ukrainian school students in collaboration with DESY. In total, we welcomed 16 students and had the support of 4 mentors. As the main organizer, my responsibilities included:
-
-- Identifying and collaborating with other organizers, who assisted in adapting the DESY workshop on Cosmic Rays for this specific event.
-- Recruiting students from Ukraine to participate in the event.
-- Strategizing various contingency plans to ensure the event could proceed, given the potential challenges arising from the ongoing war in Ukraine
+## Ukrainian International Cosmic Ray Day 2022 and 2023 
+We partnered with DESY (2022 and 2023) and Auger (2023) to host the International Cosmic Ray Day for Ukrainian school students. Three organizers were involved. In 2022, we had four mentors and 16 participants; in 2023, there were five mentors and 20 participants.
 
 ## Astronomy Battles Tournament by AstroSendbox
 AstroSendbox is a nationwide Ukrainian astronomy competition designed for high school and undergraduate university students. You can learn more on the [official website](https://www.astrosandbox.com/fightsenglis). I liaise with sponsors from Germany and assist in organizing the event. Additionally, I'm a judge for the tournament.
+
+## DESY Ukraine Summer School 2024, DESY Ukraine Winter School 2023
+I was involed in organizing of the 
+
+## Workshop "Presentation of scientific results 2021" for Ukrainian students
+Main Organizer. Series lectures to help the Ukrainian astronomy student improve their presentation and writing skills. One of the lectures was integrated into the DESY-Ukrainian winter school.
+
 
 ## Judge Committee:
 - International Olympiad on Astronomy and Astrophysics *Ukraine [2022 – Current]*
@@ -29,7 +32,8 @@ AstroSendbox is a nationwide Ukrainian astronomy competition designed for high s
 - Experimental Physics Olympiad for school students *Ukraine [2014 – 2021]*
 
 
-## Volunteer Experience 
 
-Universe on Tour 2023, NASA International Space Apps Challenge 2018, Media Hack Weekend 2018, Data Scientarium 2017, X Reality Hack 2017, IT Forum Kyiv 2016, Web Standards Days Kyiv 2016, Media Hack Weekend 2016
+
+## Helping with organizing: 
+Laboratory Practicum in Vacuum Physics DESY (a tutor for Ukrainian kids), Universe on Tour 2023 Munich, APPEC Town Meeting 2022(Chair of roundtables), NASA International Space Apps Challenge 2018 (230 participants), Global Hack Weekend 2018 (1300 participants), Data Scientarium 2017 (300 participants), X Reality Hack 2017 (600 participants), IT Forum Kyiv 2016 (200 participants), Web Standards Days Kyiv 2016 (200 participants), Media Hack Weekend 2016 (700 participants)
   
