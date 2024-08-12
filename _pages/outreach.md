@@ -35,5 +35,13 @@ Main Organizer. Series lectures to help the Ukrainian astronomy student improve 
 
 
 ## Helping with organizing: 
-Laboratory Practicum in Vacuum Physics DESY (a tutor for Ukrainian kids), Universe on Tour 2023 Munich, APPEC Town Meeting 2022(Chair of roundtables), NASA International Space Apps Challenge 2018 (230 participants), Global Hack Weekend 2018 (1300 participants), Data Scientarium 2017 (300 participants), X Reality Hack 2017 (600 participants), IT Forum Kyiv 2016 (200 participants), Web Standards Days Kyiv 2016 (200 participants), Media Hack Weekend 2016 (700 participants)
+- Laboratory Practicum in Vacuum Physics DESY (a tutor for Ukrainian kids); 
+- Universe on Tour 2023 Munich, APPEC Town Meeting 2022(Chair of roundtables);
+- NASA International Space Apps Challenge 2018 (230 participants);
+- Global Hack Weekend 2018 (1300 participants);
+- Data Scientarium 2017 (300 participants);
+- X Reality Hack 2017 (600 participants);
+- IT Forum Kyiv 2016 (200 participants); 
+- Web Standards Days Kyiv 2016 (200 participants);
+-  Media Hack Weekend 2016 (700 participants);
   
