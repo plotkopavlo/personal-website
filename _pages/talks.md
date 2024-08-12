@@ -6,12 +6,16 @@ title: "Talks"
 ---
 ## Invited talks
 
-- 
+
+- **Studying Tidal Disruption Events with Ultra-High-Energy Cosmic Rays and Neutrinos**
+  
+  Invited seminar, June 2023, Max-Planck-Institut für Physik
+
 - [Ultra-high-energy cosmic rays and EeV neutrinos from jetted Active Galactic Nuclei](https://indico.desy.de/event/40283/sessions/15888/attachments/86122/114629/Plotko_APC10.pdf)
   
   Highlight talk *October 2023, DESY, Germany*  
   
-- Houston, we have a problem with phenomenology 
+- **Houston, we have a problem with phenomenology**
   
   Invited semibar, *August 2023, Institute for Cosmic Ray Research University of Tokyo, Japan*
 
