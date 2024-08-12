@@ -13,19 +13,43 @@ title: "CV"
 ## PhD in Theoretical Astroparticle Physics
 DESY Zeuthen within International Helmholtz-Weizmann Research School on Multimessenger Astronomy [01/09/2020 – Current]
 Zeuthen, Germany
+
 **Topic:** Signature of UHECR nuclei in astrophysical sources and propagation
+
 **Supervisors:** Winter Walter, Arjen van Vliet, Xavier Rodrigues.
 
 
 ## Master's degree in Astrophysics (Diploma with honours)
 Taras Shevchenko National University of Kyiv, Ukraine [01/09/2018 – 31/05/2020]
+
 **Thesis title**: Acceleration and non-thermal emission of cosmic rays in Vela Jr. Supernova remnant
+
 **Supervisors**: Hnatyk Bohdan and Iurii Sushch
 
 ## Bachelor's degree in Astrophysics (Diploma with honours)
 Taras Shevchenko National University of Kyiv, Ukraine [01/09/2014 –30/06/2018]   
+
 **Thesis title**: Vela Supernova Remnant and its Pulsar Wind Nebula: Physical Characteristics and Radio Emission
+
 **Supervisors**: Hnatyk Bohdan
+
+# Scientific and Soft skill training
+
+- **Basic Statistics**, University of Amsterdam University of Amsterdam, 2024
+- **HGS-HIRe Basic Courses**, The Helmholtz Graduate School for Hadron and Ion Research
+  
+    I: Making an Impact as an Effective Researcher [2021]
+
+    II: Leading Teams in a Research Environment [2022]
+
+    III: Leadership and Career Development [2023]
+    
+- **Astroparticle School 2023**, Obertrubach-Bärnfels, Germany [04/10/2023 -12/10/2023]
+- **NBIA Summer School on Neutrinos: Here, There & Everywhere**, Niels Bohr Institute, Copenhagen, Danmark [11/07/2022 – 15/07/2022]
+- **Foundations of Cosmic Ray Astrophysics - Varenna 2022**, Varenna, Italy [23/06/2022 – 29/06/2022]
+- **Scientiﬁc and Academic Writing in English**, Potsdam Graduate School, 2022
+- **FRENCH-UKRAINE Winter School on High Energy Physics**, Taras Shevchenko National University of Kyiv, Ukraine [06/03/2017 – 10/03/2017]  
+
 
 # Work and research experience
 - **Visiting researcher**,
