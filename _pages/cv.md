@@ -8,10 +8,55 @@ author_profile: true
 title: "CV"
 ---
 
+# Work and research experience
+- ** Scientific Coordinator**,
+   *Zentrum für Astroteilchenphysik (DZA), Görlitz, Germany [01/02/2025 – ]*
+  
+- **Visiting researcher**,
+    *Khalifa University, Abu Dhabi, UAE [30/10/2022 – 1/12/2022]*
+
+- **Trainee Researcher**
+    *DESY, Zeuthen, Germany [03/11/2019 – 03/12/2019], [17/02/2019 – 17/03/2019]*
+    
+    **Topic:** Acceleration and non-thermal emission of cosmic rays in Supernova remnants
+
+    **Supervisors:** Iurii Sushch
+
+- **Trainee Researcher**
+    *Astronomical Observatory of the Jagiellonian University, Krakow, Poland [01/07/2017 – 23/07/2017]*
+
+    **Topic:** Simulation of radiation emission from classical novae
+
+    **Supervisor:** Lukasz Filip Stawarz 
+
+- **DESY Summer Student Programme 2019**
+    *DESY, Zeuthen, Germany [17/07/2019 – 05/09/2019]*
+
+    **Topic:** Acceleration and non-thermal emission of cosmic rays in Supernova remnants
+
+    **Supervisors:** Iurii Sushch
+
+
+- **PhD student’s representative**
+    DESY, Zeuthen, Germany [01/04/2021 – 31/03/2022] 
+
+- **Student’s representative**
+    *Taras Shevchenko National University of Kyiv, Ukraine [01/09/2018 – 31/05/2020]* 
+
+- **Secretary of Local Organizing Committee**
+    Young Scientists’ Conference on Astronomy and Space Physics, Kyiv, Ukraine [01/09/2018 – 01/09/2020]
+
+- **Web Development**
+    *KyivDev, Kyiv, Ukraine [01/10/2017 – 25/12/2018]*
+
+    Front-end and back-end development
+
+
+
 # Education
 
 ## PhD in Theoretical Astroparticle Physics
-DESY Zeuthen within International Helmholtz-Weizmann Research School on Multimessenger Astronomy [01/09/2020 – Current]
+DESY Zeuthen within International Helmholtz-Weizmann Research School on Multimessenger Astronomy [01/09/2020 – 31/08/2024]
 Zeuthen, Germany
 
 **Topic:** Signature of UHECR nuclei in astrophysical sources and propagation
@@ -51,45 +96,6 @@ Taras Shevchenko National University of Kyiv, Ukraine [01/09/2014 –30/06/2018]
 - **FRENCH-UKRAINE Winter School on High Energy Physics**, Taras Shevchenko National University of Kyiv, Ukraine [06/03/2017 – 10/03/2017]  
 
 
-# Work and research experience
-- **Visiting researcher**,
-    *Khalifa University, Abu Dhabi, UAE [30/10/2022 – 1/12/2022]*
-
-- **Trainee Researcher**
-    *DESY, Zeuthen, Germany [03/11/2019 – 03/12/2019], [17/02/2019 – 17/03/2019]*
-    
-    **Topic:** Acceleration and non-thermal emission of cosmic rays in Supernova remnants
-
-    **Supervisors:** Iurii Sushch
-
-- **Trainee Researcher**
-    *Astronomical Observatory of the Jagiellonian University, Krakow, Poland [01/07/2017 – 23/07/2017]*
-
-    **Topic:** Simulation of radiation emission from classical novae
-
-    **Supervisor:** Lukasz Filip Stawarz 
-
-- **DESY Summer Student Programme 2019**
-    *DESY, Zeuthen, Germany [17/07/2019 – 05/09/2019]*
-
-    **Topic:** Acceleration and non-thermal emission of cosmic rays in Supernova remnants
-
-    **Supervisors:** Iurii Sushch
-
-
-- **PhD student’s representative**
-    DESY, Zeuthen, Germany [01/04/2021 – 31/03/2022] 
-
-- **Student’s representative**
-    *Taras Shevchenko National University of Kyiv, Ukraine [01/09/2018 – 31/05/2020]* 
-
-- **Secretary of Local Organizing Committee**
-    Young Scientists’ Conference on Astronomy and Space Physics, Kyiv, Ukraine [01/09/2018 – 01/09/2020]
-
-- **Web Development**
-    *KyivDev, Kyiv, Ukraine [01/10/2017 – 25/12/2018]*
-
-    Front-end and back-end development
 
 
 
