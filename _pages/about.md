@@ -6,11 +6,13 @@ author_profile: true
 title: "About Me"
 ---
 
-Hello! I'm Pavlo Plotko. Since September 2020, I've been a PhD student at the Astroparticle Theory Group at DESY. I'm originaly from Kharkiv, located in eastern Ukraine. Influenced by my mother, a teacher, I was introduced to computers and physics early on, writing my first code, when I was 9 years old. During high school, I actively participated in scientific Olympiads and tournaments. My interest in Astronomy started in 2012 when I did a photometric observation of asteroid 4 Vesta. This experience  has influenced me and I got both a Bachelor's and a Master's in Astronomy in Kyiv. Right from my first year, I was involved with scientific projects and  organized conferences and meetups. My research focused on the non-thermal emission from SNRs and PWNs. After completing my degrees in 2020, I started my journey at DESY.
+Hello! I’m Pavlo Plotko. I joined the Deutsches Zentrum für Astroteilchenphysik (DZA) on 1 February 2025 as Scientific Coordinator, where I oversee scientific collaborations across Eastern Europe.
 
-My current focus is on self-consistent modeling of propagation UHECRs from sources such as AGNs and TDEs. 
+I’m originally from Kharkiv, in eastern Ukraine. Influenced by my mother, a teacher, I was introduced to computers and physics early on—writing my first lines of code at age 9. In high school, I competed in scientific Olympiads and tournaments. My passion for astronomy took off in 2012, when I carried out a photometric observation of asteroid 4 Vesta. I went on to earn both my Bachelor’s and Master’s degrees in Astronomy at Kyiv University, and from my very first year there I was involved in research projects and helped organize conferences and meetups.
 
-Outside of my research, I'm actively involved in numerous Ukrainian outreach projects and initiatives aimed at enhancing student life at DESY. Additionally, I have a keen interest in physiology and bouldering.
+Since September 2020, I’ve been pursuing a PhD at the Astroparticle Theory Group at DESY—my thesis work focuses on self-consistent modeling of ultra-high-energy cosmic-ray propagation from sources like active galactic nuclei (AGNs) and tidal disruption events (TDEs). My PhD is still in progress.
+
+Outside my core research and coordination duties at DZA, I’m deeply involved in Ukrainian outreach initiatives and in efforts to enrich student life at both DESY and DZA. In my free time I’m also fascinated by human physiology and enjoy bouldering.
 
 
 
