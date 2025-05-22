@@ -10,7 +10,7 @@ title: "CV"
 
 # Work and research experience
 - ** Scientific Coordinator**,
-   *Zentrum für Astroteilchenphysik (DZA), Görlitz, Germany [01/02/2025 – ]*
+   *Zentrum für Astroteilchenphysik (DZA), Görlitz, Germany [01/02/2025 – Current]*
   
 - **Visiting researcher**,
     *Khalifa University, Abu Dhabi, UAE [30/10/2022 – 1/12/2022]*
