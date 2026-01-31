@@ -6,7 +6,7 @@ author_profile: true
 title: "About Me"
 ---
 
-Hello! I’m Pavlo Plotko. I joined the Deutsches Zentrum für Astroteilchenphysik (DZA) on 1 February 2025 as Scientific Coordinator, where I oversee scientific collaborations across Eastern Europe.
+Hello! I’m Pavlo Plotko. I joined the Deutsches Zentrum für Astrophysik (DZA) on 1 February 2025 as Scientific Coordinator, where I oversee scientific collaborations across Eastern Europe.
 
 I’m originally from Kharkiv, in eastern Ukraine. Influenced by my mother, a teacher, I was introduced to computers and physics early on—writing my first lines of code at age 9. In high school, I competed in scientific Olympiads and tournaments. My passion for astronomy took off in 2012, when I carried out a photometric observation of asteroid 4 Vesta. I went on to earn both my Bachelor’s and Master’s degrees in Astronomy at Kyiv University, and from my very first year there I was involved in research projects and helped organize conferences and meetups.
 
