@@ -56,7 +56,7 @@ title: "CV"
 # Education
 
 ## PhD in Theoretical Astroparticle Physics
-DESY Zeuthen within International Helmholtz-Weizmann Research School on Multimessenger Astronomy [01/09/2020 – 31/08/2024]
+DESY Zeuthen within International Helmholtz-Weizmann Research School on Multimessenger Astronomy [01/09/2020 – present]
 Zeuthen, Germany
 
 **Topic:** Signature of UHECR nuclei in astrophysical sources and propagation
@@ -72,7 +72,7 @@ Taras Shevchenko National University of Kyiv, Ukraine [01/09/2018 – 31/05/2020
 **Supervisors**: Hnatyk Bohdan and Iurii Sushch
 
 ## Bachelor's degree in Astrophysics (Diploma with honours)
-Taras Shevchenko National University of Kyiv, Ukraine [01/09/2014 –30/06/2018]   
+Taras Shevchenko National University of Kyiv, Ukraine [01/09/2014 – 30/06/2018]
 
 **Thesis title**: Vela Supernova Remnant and its Pulsar Wind Nebula: Physical Characteristics and Radio Emission
 
@@ -80,7 +80,7 @@ Taras Shevchenko National University of Kyiv, Ukraine [01/09/2014 –30/06/2018]
 
 # Scientific and Soft skill training
 
-- **Basic Statistics**, University of Amsterdam University of Amsterdam, 2024
+- **Basic Statistics**, University of Amsterdam, 2024
 - **HGS-HIRe Basic Courses**, The Helmholtz Graduate School for Hadron and Ion Research
   
     I: Making an Impact as an Effective Researcher [2021]
@@ -90,9 +90,9 @@ Taras Shevchenko National University of Kyiv, Ukraine [01/09/2014 –30/06/2018]
     III: Leadership and Career Development [2023]
     
 - **Astroparticle School 2023**, Obertrubach-Bärnfels, Germany [04/10/2023 -12/10/2023]
-- **NBIA Summer School on Neutrinos: Here, There & Everywhere**, Niels Bohr Institute, Copenhagen, Danmark [11/07/2022 – 15/07/2022]
+- **NBIA Summer School on Neutrinos: Here, There & Everywhere**, Niels Bohr Institute, Copenhagen, Denmark [11/07/2022 – 15/07/2022]
 - **Foundations of Cosmic Ray Astrophysics - Varenna 2022**, Varenna, Italy [23/06/2022 – 29/06/2022]
-- **Scientiﬁc and Academic Writing in English**, Potsdam Graduate School, 2022
+- **Scientific and Academic Writing in English**, Potsdam Graduate School, 2022
 - **FRENCH-UKRAINE Winter School on High Energy Physics**, Taras Shevchenko National University of Kyiv, Ukraine [06/03/2017 – 10/03/2017]  
 
 
@@ -100,7 +100,7 @@ Taras Shevchenko National University of Kyiv, Ukraine [01/09/2014 –30/06/2018]
 
 
 # Digital skills 
-- **Scientific softs:** [PriNCe](https://github.com/joheinze/PriNCe), [PLUTO](http://plutocode.ph.unito.it/),[RATPaC](https://www.aanda.org/articles/aa/abs/2021/10/aa41194-21/aa41194-21.html), [CRpropa](https://https://crpropa.desy.de), IDL
+- **Scientific software:** [PriNCe](https://github.com/joheinze/PriNCe), [PLUTO](http://plutocode.ph.unito.it/), [RATPaC](https://www.aanda.org/articles/aa/abs/2021/10/aa41194-21/aa41194-21.html), [CRPropa](https://crpropa.desy.de), IDL
 
 - **Programming:** Python / C++ / Qt / Arduino / Mathematica / Git
 
@@ -112,7 +112,7 @@ Taras Shevchenko National University of Kyiv, Ukraine [01/09/2014 –30/06/2018]
 - Supervisor of Valentyna Babur during DESY Ukraine Winter School 2023, Zeuthen, Germany *[31/01/2023-10/03/2023]*. Project: **Ultra-High-Energy Cosmic Rays propagation in extragalactic space from a single source**.
 - Supervisor of Frederike Apel during DESY Summer School 2022, Zeuthen, Germany *[18/07/2022-08/09/2022]*. Project: **Modeling the Gamma-ray burst afterglow emission**. 
 - Teaching **Laboratory Practicum in Vacuum Physics**. For elementary school students at DESY, Zeuthen, Germany *[26.8.2022]*
-- Helping preparing lectures and tutorails for **Neutrino physics and astrophysics (theory)** at University of Oxford and Humboldt university, *[Winter semester 2020/21]*
+- Helping prepare lectures and tutorials for **Neutrino physics and astrophysics (theory)** at University of Oxford and Humboldt University, *[Winter semester 2020/21]*
 - Preparing tutorials for **Methodology of Science** for undergraduate students at Taras Shevchenko National University of Kyiv, Kyiv, Ukraine *[1/9/2019-14/12/2019]*
 - Tutor for **Laboratory Practicum in Astronomy** for an undergraduate student at Taras Shevchenko National University of Kyiv, Kyiv, Ukraine *[1/9/2019-14/12/2019]*
 
@@ -135,7 +135,7 @@ Taras Shevchenko National University of Kyiv, Ukraine [01/09/2014 –30/06/2018]
 
 # Honours and awards 
 - **Scholarship of Zavtra.ua** *[2019]*. The largest private nationwide program dedicated to supporting talented youth in Ukraine. Out of 300 applicants, I secured the 12th position among the 100 students awarded the scholarship.
-- **III place in Ukrainian Olympiad on Astronomy and Astrophysics ** *[2015]*
+- **III place in Ukrainian Olympiad on Astronomy and Astrophysics** *[2015]*
 - **Scholarship of President of Ukraine** *[2014]*. This scholarship is awarded to the best students and winners of national and international competitions in Ukraine. 
 - **II place in Research paper defense Competition of Minor Academy of Sciences of Ukraine Student-members III stage** *[2014]*
 - **II place in Ukrainian Olympiad on Astronomy and Astrophysics** *[2014]*
@@ -150,6 +150,6 @@ Taras Shevchenko National University of Kyiv, Ukraine [01/09/2014 –30/06/2018]
 - Minor Academy of Sciences of Ukraine *Ukraine [2014 – 2019]*
 
 # Hobbies and interests
-Coﬀee, organizing conferences/meetups and volunteering at diﬀerent events, bouldering and psychology 
+Coffee, organizing conferences/meetups and volunteering at different events, bouldering and psychology
 
 

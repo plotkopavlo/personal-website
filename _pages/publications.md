@@ -13,7 +13,7 @@ title: "Publications"
     
     Samata Das, Robert Brose, Dominique M.-A. Meyer, Martin Pohl, Iurii Sushch, **Pavlo Plotko**
 
-- [Leptonic non-thermal emission from supernova remnants evolving in the circumstellar magnetic ﬁeld](https://arxiv.org/abs/2111.06946) 
+- [Leptonic non-thermal emission from supernova remnants evolving in the circumstellar magnetic field](https://arxiv.org/abs/2111.06946) 
 
     Iurii Sushch, Robert Brose, Martin Pohl, **Pavlo Plotko**, Samata Das
 - [Production of secondary particles in heavy nuclei interactions in supernova remnants](https://arxiv.org/abs/2006.07018) 

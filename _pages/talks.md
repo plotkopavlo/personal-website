@@ -17,7 +17,7 @@ title: "Talks"
   
 - **Houston, we have a problem with phenomenology**
   
-  Invited semibar, *August 2023, Institute for Cosmic Ray Research University of Tokyo, Japan*
+  Invited seminar, *August 2023, Institute for Cosmic Ray Research, University of Tokyo, Japan*
 
 - [Ultra-High-Energy Cosmic Rays field: The Sign of Three](https://docs.google.com/presentation/d/1GCY2OXhVO_KwB-3uBKk3J_A0IE_DKM1h/edit?usp=sharing&ouid=105641816822597315411&rtpof=true&sd=true)
   
