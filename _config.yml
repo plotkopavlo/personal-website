@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Pavlo Plotko"
-  avatar           : "/assets/images/plotko.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a PhD student at DESY. I am a high-energy astrophysicist and I have a keen interest in outreach and bouldering."
+  avatar           : "/assets/images/front_picture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "International Scientific Affairs at the DZA, coordinating astronomical activities with Ukraine. High-energy astrophysicist with a keen interest in outreach and bouldering."
   location         : "Berlin, Germany"
   email            : #"pavlo.plotko@desy.de"
   links:

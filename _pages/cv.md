@@ -9,7 +9,7 @@ title: "CV"
 ---
 
 # Work and research experience
-- **Scientific Coordinator**,
+- **International Scientific Affairs**,
    _Zentrum für Astroteilchenphysik (DZA), Görlitz, Germany [01/02/2025 – Current]_
   
 - **Visiting researcher**,
