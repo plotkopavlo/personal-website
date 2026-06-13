@@ -4,74 +4,65 @@ layout: single
 author_profile: true
 title: "Talks"
 ---
+
 ## Invited talks
 
-
 - **Studying Tidal Disruption Events with Ultra-High-Energy Cosmic Rays and Neutrinos**
-  
-  Invited seminar, June 2023, Max-Planck-Institut für Physik
 
-- [Ultra-high-energy cosmic rays and EeV neutrinos from jetted Active Galactic Nuclei](https://indico.desy.de/event/40283/sessions/15888/attachments/86122/114629/Plotko_APC10.pdf)
-  
-  Highlight talk *October 2023, DESY, Germany*  
-  
+  *Invited seminar · Max-Planck-Institut für Physik · June 2023*
+
+- [Ultra-high-energy cosmic rays and EeV neutrinos from jetted active galactic nuclei](https://indico.desy.de/event/40283/sessions/15888/attachments/86122/114629/Plotko_APC10.pdf)
+
+  *Highlight talk · DESY, Germany · October 2023*
+
 - **Houston, we have a problem with phenomenology**
-  
-  Invited seminar, *August 2023, Institute for Cosmic Ray Research, University of Tokyo, Japan*
+
+  *Invited seminar · Institute for Cosmic Ray Research, University of Tokyo, Japan · August 2023*
 
 - [Ultra-High-Energy Cosmic Rays field: The Sign of Three](https://docs.google.com/presentation/d/1GCY2OXhVO_KwB-3uBKk3J_A0IE_DKM1h/edit?usp=sharing&ouid=105641816822597315411&rtpof=true&sd=true)
-  
-  Invited seminar, *November 2022, Khalifa university, Abu Dhabi, UAE*
 
-- [Differences between Auger and TA spectra: Systematics or indication of a local astrophysical source?](https://drive.google.com/file/d/1nOWaZYGj7NTJsznzYWh1M2beINRSOmng/view?usp=sharing)
-    
-  Invited short talk, [MU days 2022](https://indico.gsi.de/event/15071/), October 2022, GSI, Darmstadt, Germany
+  *Invited seminar · Khalifa University, Abu Dhabi, UAE · November 2022*
 
-    
+- [Differences between Auger and TA spectra: systematics or indication of a local astrophysical source?](https://drive.google.com/file/d/1nOWaZYGj7NTJsznzYWh1M2beINRSOmng/view?usp=sharing)
+
+  *Invited short talk · [MU Days 2022](https://indico.gsi.de/event/15071/), GSI, Darmstadt, Germany · October 2022*
+
 ## Conferences
 
+- **Tidal disruption events as the origin of ultra-high-energy cosmic rays and EeV neutrinos**
 
-- **Tidal disruption events as the origin of Ultra-high-energy cosmic rays and EeV neutrinos** 
+  *DPG · Karlsruhe, Germany · March 2024*
 
-   DPG, March 2024, Karlsruhe, Germany
+- [Differences between Auger and TA spectra: systematics or indication of a local astrophysical source?](https://drive.google.com/file/d/1nOWaZYGj7NTJsznzYWh1M2beINRSOmng/view?usp=sharing)
 
-- [Differences between Auger and TA spectra: Systematics or indication of a local astrophysical source?](https://drive.google.com/file/d/1nOWaZYGj7NTJsznzYWh1M2beINRSOmng/view?usp=sharing)
-  
-  ICRC2023, July 2023, Nagoya, Japan 
+  *ICRC 2023 · Nagoya, Japan · July 2023*
 
 - [Indication of a Local Source of Ultra-High-Energy Cosmic Rays in the Northern Hemisphere](https://docs.google.com/presentation/d/1tIVzrO0MIec1oDtKlQm2tjvG-QVS3XvW/edit?usp=sharing&ouid=105641816822597315411&rtpof=true&sd=true)
-  
-
-  [UHECR2022](https://indico.gssi.it/event/396/), October 2022, L’Aquila, Italy
-    
-  YSC 28, April 2022, Kyiv, Ukraine
+    - *[UHECR 2022](https://indico.gssi.it/event/396/) · L'Aquila, Italy · October 2022*
+    - *YSC 28 · Kyiv, Ukraine · April 2022*
 
 - **Cosmic rays in starburst galaxies**
 
-  DESY Summer School 2019, Zeuthen, Germany
+  *DESY Summer School 2019 · Zeuthen, Germany*
 
-- **Vela Supernova Remnant and its Pulsar Wind Nebula: Physical Characteristics and Radio Emission**
+- **Vela supernova remnant and its pulsar wind nebula: physical characteristics and radio emission**
+    - *Week of Doctoral Students 2018 · Prague, Czech Republic*
+    - *Young Scientists' Conference on Astronomy and Space Physics 2018 · Kyiv, Ukraine*
 
-  Week of Doctoral Students 2018, Prague, Czech Republic
-  
-  Young Scientists' conference on Astronomy and Space Physics 2018, Kyiv, Ukraine
+- **Hydrodynamic modeling of the Vela pulsar wind nebula**
+    - *Week of Doctoral Students 2017 · Prague, Czech Republic*
+    - *Young Scientists' Conference on Astronomy and Space Physics 2017 · Kyiv, Ukraine*
 
-- **Hydrodynamic modeling of Vela pulsar wind nebula**
-    
-  Week of Doctoral Students 2017, Prague, Czech Republic
-    
-  Young Scientists' conference on Astronomy and Space Physics 2017, Kyiv, Ukraine
-    
-- **The optical afterglow of gamma-ray burst GRB130427**
+- **The optical afterglow of gamma-ray burst GRB 130427**
 
-    Young Scientists' conference on Astronomy and Space Physics 2015, Kyiv, Ukraine
+  *Young Scientists' Conference on Astronomy and Space Physics 2015 · Kyiv, Ukraine*
 
-- **Photometry and Polarimetry of Asteroid 4 Vesta**
-    
-    VIII Barabashova Science Conference 2013, Kharkiv, Ukraine
+- **Photometry and polarimetry of asteroid 4 Vesta**
+
+  *VIII Barabashova Science Conference 2013 · Kharkiv, Ukraine*
 
 ## Lectures
 
-- **Instrumental Astronomy** 
+- **Instrumental Astronomy**
 
-  for undergraduate students, Taras Shevchenko National University of Kyiv, Kyiv, Ukraine, 2019
+  *Undergraduate course · Taras Shevchenko National University of Kyiv, Ukraine · 2019*
