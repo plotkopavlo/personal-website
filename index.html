@@ -21,9 +21,24 @@ header:
   <div style="flex: 1 1 340px; min-width: 280px;">
     <p>My name is Pavlo Plotko. I’m responsible for International Scientific Affairs at the Deutsches Zentrum für Astrophysik (DZA), where I oversee scientific collaborations across Eastern Europe. I am completing my PhD at DESY, which I began in September 2020, focusing on self-consistent modeling of ultra-high-energy cosmic-ray (UHECR) propagation from sources such as active galactic nuclei (AGNs) and tidal disruption events (TDEs). Outside of my core responsibilities at DZA, I remain deeply involved in Ukrainian outreach efforts together with both DESY and DZA.</p>
     <p>
-      <a href="mailto:pavlo.plotko@dzastro.de"><i class="fas fa-fw fa-envelope-square"></i> pavlo.plotko@dzastro.de</a><br>
+      <i class="fas fa-fw fa-envelope-square"></i>
+      <span id="contact-email">pavlo.plotko (at) dzastro.de</span><br>
       <a href="https://www.linkedin.com/in/pavlo-plotko/"><i class="fab fa-fw fa-linkedin"></i> linkedin.com/in/pavlo-plotko</a>
     </p>
+    <script>
+      // Assemble the e-mail in JS so the raw address never appears in the
+      // static HTML that spam scrapers harvest. Falls back to "(at)" text.
+      (function () {
+        var user = "pavlo.plotko", domain = "dzastro.de";
+        var el = document.getElementById("contact-email");
+        if (el) {
+          var a = document.createElement("a");
+          a.href = "mailto:" + user + "@" + domain;
+          a.textContent = user + "@" + domain;
+          el.replaceWith(a);
+        }
+      })();
+    </script>
   </div>
   <div style="flex: 0 0 260px; margin: 0 auto; text-align: center;">
     <img src="{{ '/assets/images/front_picture.jpg' | relative_url }}" alt="Pavlo Plotko" style="width: 100%; max-width: 260px; border-radius: 8px;">
