@@ -35,6 +35,8 @@
         {% for link in author.links %}
           {% if link.label and link.url %}
             <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer me"{% if link.url contains 'http' %} itemprop="sameAs"{% endif %}><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i><span class="label">{{ link.label }}</span></a></li>
+          {% elsif link.label %}
+            <li><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i><span class="label">{{ link.label }}</span></li>
           {% endif %}
         {% endfor %}
       {% endif %}

@@ -110,27 +110,13 @@ author:
   location         : "Görlitz, Germany"
   email            : #"pavlo.plotko@dzastro.de"
   links:
+    # No "url" on the e-mail entry: it renders as plain text so spam
+    # scrapers can't harvest a mailto address.
     - label: "pavlo.plotko(at)dzastro.de"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:pavlo.plotko@dzastro.de"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/pavlo-plotko/"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
