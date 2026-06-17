@@ -5,6 +5,10 @@ author_profile: true
 title: "Publications"
 ---
 
+- [Ultrahigh-energy cosmic rays from neutrino-emitting tidal disruption events](https://iopscience.iop.org/article/10.3847/1538-4357/adef3b)
+
+    **Pavlo Plotko**, Walter Winter, Cecilia Lunardini, Chengchao Yuan · *The Astrophysical Journal* · *2025*
+
 - [Differences between the Pierre Auger Observatory and Telescope Array spectra: systematic effects or indication of a local source of ultra-high-energy cosmic rays?](https://arxiv.org/abs/2208.12274)
 
     **Pavlo Plotko**, Arjen van Vliet, Xavier Rodrigues, Walter Winter · *2022*
