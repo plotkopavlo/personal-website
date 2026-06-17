@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Plotko Pavlo"
+title                    : "Pavlo Plotko"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Plotko Pavlo"
-description              : Personal website"
+name                     : "Pavlo Plotko"
+description              : "Personal website of Pavlo Plotko — astroparticle physicist at the Deutsches Zentrum für Astrophysik (DZA), working on ultra-high-energy cosmic rays."
 url                      : "https://plotkopavlo.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "plotkopavlo/personal-website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -86,20 +86,21 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/PM_DESY_Blazar_quer_low.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : "Person" # Person or Organization (defaults to Person)
+  name                   : "Pavlo Plotko" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://www.linkedin.com/in/pavlo-plotko/"
 
 # Analytics
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          : "G-V1DG3CHZ7F"
-    anonymize_ip         : # true, false (default)
+    anonymize_ip         : true # true, false (default)
 
 
 # Site Author
