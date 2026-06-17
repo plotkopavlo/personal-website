@@ -29,6 +29,12 @@ Organizer of both schools, which bring Ukrainian students to DESY for research p
 
 Main organizer of a lecture series helping Ukrainian astronomy students improve their presentation and writing skills; one lecture was integrated into the DESY Ukraine Winter School.
 
+## School and public engagement
+
+- **DZA stand, German Consulate General Open Day** — VR tour of the planned Low Seismic Lab and family activities · *Wrocław, Poland · 30/05/2026*
+- **"Astronomical Express"** — talk on cosmic rays for a student-founded online lecture series · *online · 04/2025*
+- **ZukunftsStation Weißwasser** — radio-astronomy project day for grade 7–8 pupils, with Station Weißwasser e. V. · *Weißwasser, Germany · 25/02/2025*
+
 ## Judge committee
 
 - International Olympiad on Astronomy and Astrophysics · *Ukraine · 2022 – Present*

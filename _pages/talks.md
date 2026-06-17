@@ -61,7 +61,21 @@ title: "Talks"
 
   *VIII Barabashova Science Conference 2013 · Kharkiv, Ukraine*
 
+## Public and outreach talks
+
+- **The Deutsches Zentrum für Astrophysik (DZA)**
+
+  *Astronomy on Tap · Cologne, Germany · April 2025*
+
+- **Cosmic rays** (lecture for school students)
+
+  *Astronomical Express, student-led project · online · April 2025*
+
 ## Lectures
+
+- **Astronomical Archives and Optical Imaging**
+
+  *2nd ChETEC-INFRA Observational School (ChINOS) · Prague, Czech Republic · July 2025*
 
 - **Instrumental Astronomy**
 

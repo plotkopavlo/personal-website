@@ -87,7 +87,25 @@ title: "CV"
 
 # Organizational experience
 
+- **Cooperation agreements between the DZA and Wrocław institutions** — Coordinator · *Görlitz, Germany · 20/05/2026*
+    - MoUs with the University of Wrocław, Wrocław University of Science and Technology, Wrocław University of Environmental and Life Sciences, and the Institute for Territorial Development (IRT)
+- **Zavtra.UA scholarship programme** — Interview panel member · *online · 04/2025, 04/2026*
+- **Radio-astronomy teacher-training workshop for Ukrainian educators** — Main coordinator · *Lviv, Ukraine · 23/04/2026 – 25/04/2026*
+    - Space Radio for Ukraine project (DESY/DZA); included an MoU with the Junior Academy of Sciences of Ukraine
+- **DZA delegation visit to the Technical University of Liberec** — Coordinator · *Liberec, Czech Republic · 06/03/2026*
+- **ADASS 2025 — Astronomical Data Analysis Software and Systems** — Local Organizing Committee · *Görlitz, Germany · 09/11/2025 – 13/11/2025*
+- **DZA–DESY cooperation visit to the Ukrainian astronomy community** — Main coordinator · *Lviv, Ukraine · 25/10/2025 – 27/10/2025*
+    - Coordinated the visit of C. Stegmann (DESY) and S. Ohm (DZA) and an MoU with the Ukrainian Astronomical Association
+- **Annual Meeting of the Astronomical Society (AG 2025)** — Local Organizing Committee · *Görlitz, Germany · 15/09/2025 – 19/09/2025*
+- **2nd ChETEC-INFRA Observational School (ChINOS)** — Coordinator of DZA involvement, lecturer · *Prague, Czech Republic · 20/07/2025 – 26/07/2025*
+- **SKA Science Conference** — Local Organizing Committee · *Görlitz, Germany · 16/06/2025 – 20/06/2025*
+- **Astronomy-in-society discussions, representing DESY and the DZA** — Representative · *Leiden, Netherlands · 09/06/2025*
+- **Cooperation agreements between the DZA and Czech research institutions** — Coordinator · *Prague, Czech Republic · 20/05/2025*
+    - MoUs with the Czech Academy of Sciences, Charles University, and the Czech Technical University in Prague
+- **DESY delegation visit to Ukraine** — Co-coordinator · *Kyiv, Ukraine · 01/10/2024 – 02/10/2024*
+    - National Academy of Sciences of Ukraine, Bogoliubov Institute of Theoretical Physics, and Taras Shevchenko National University of Kyiv
 - **DESY Ukraine Summer School 2024** — Organizer · *Zeuthen, Germany · 16/07/2024 – 06/09/2024*
+    - 112 participants from 27 countries (14 from Ukraine)
 - **Ukrainian International Cosmic Ray Day 2023** — Main organizer · *23/11/2023*
 - **DESY Ukraine Winter School 2023** — Organizer · *Zeuthen, Germany · 31/01/2023 – 10/02/2023*
 - **Ukrainian International Cosmic Ray Day 2022** — Main organizer · *22/11/2022*
