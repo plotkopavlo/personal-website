@@ -10,7 +10,7 @@ title: "CV"
 
 # Work and research experience
 
-- **International Scientific Affairs** — *Zentrum für Astroteilchenphysik (DZA), Görlitz, Germany · 01/02/2025 – Present*
+- **International Scientific Affairs** — *Deutsches Zentrum für Astrophysik (DZA), Görlitz, Germany · 01/02/2025 – Present*
 
 - **Visiting Researcher** — *Khalifa University, Abu Dhabi, UAE · 30/10/2022 – 01/12/2022*
 
