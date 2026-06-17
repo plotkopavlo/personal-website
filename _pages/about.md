@@ -6,13 +6,12 @@ author_profile: true
 title: "About Me"
 ---
 
-Hello! I’m Pavlo Plotko. I joined the Deutsches Zentrum für Astrophysik (DZA) on 1 February 2025, where I am responsible for International Scientific Affairs, coordinating astronomical activities with Ukraine and scientific collaborations across Eastern Europe.
+Hello! I’m Pavlo Plotko, an astroparticle physicist at the Deutsches Zentrum für Astrophysik (DZA), which I joined on 1 February 2025. My work runs along three threads:
 
-I’m originally from Kharkiv, in eastern Ukraine. Influenced by my mother, a teacher, I was introduced to computers and physics early on—writing my first lines of code at age 9. In high school, I competed in scientific Olympiads and tournaments. My passion for astronomy took off in 2012, when I carried out a photometric observation of asteroid 4 Vesta. I went on to earn both my Bachelor’s and Master’s degrees in Astronomy at Kyiv University, and from my very first year there I was involved in research projects and helped organize conferences and meetups.
+- **Science** — I study the propagation of ultra-high-energy cosmic rays (UHECRs) from sources such as active galactic nuclei (AGNs) and tidal disruption events (TDEs). I am completing my PhD in the Astroparticle Theory Group at DESY, which I began in September 2020.
+- **Activities with Ukraine** — I help connect the Ukrainian and international astronomy communities: schools for Ukrainian students at DESY and the DZA, the Ukrainian International Cosmic Ray Day, radio-astronomy projects in schools, and cooperation agreements with Ukrainian institutions.
+- **International scientific affairs** — at the DZA I coordinate scientific cooperation across Central and Eastern Europe, including partnerships and memoranda of understanding with institutions in Poland and the Czech Republic.
 
-Since September 2020, I’ve been pursuing a PhD at the Astroparticle Theory Group at DESY—my thesis work focuses on self-consistent modeling of ultra-high-energy cosmic-ray propagation from sources like active galactic nuclei (AGNs) and tidal disruption events (TDEs). My PhD is still in progress.
+I’m originally from Kharkiv, in eastern Ukraine. Influenced by my mother, a teacher, I was introduced to computers and physics early on—writing my first lines of code at age 9—and competed in scientific Olympiads and tournaments in high school. My passion for astronomy took off in 2012, when I carried out a photometric observation of asteroid 4 Vesta. I went on to earn both my Bachelor’s and Master’s degrees in Astronomy at Kyiv University, and from my very first year there I was involved in research projects and helped organize conferences and meetups.
 
-Outside my core research and coordination duties at DZA, I’m deeply involved in Ukrainian outreach initiatives and in efforts to enrich student life at both DESY and DZA. In my free time I’m also fascinated by human physiology and enjoy bouldering.
-
-
-
+In my free time I’m fascinated by human physiology and enjoy bouldering.
