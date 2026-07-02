@@ -1,6 +1,13 @@
 # Normalize line endings to LF for all text files (prevents CRLF churn)
 * text=auto eol=lf
 
+# Binary assets: never apply line-ending normalization
+*.woff2 binary
+*.jpg   binary
+*.jpeg  binary
+*.png   binary
+*.ico   binary
+
 assets/fonts/*                  linguist-vendored
 assets/js/main.min.js           linguist-vendored
 assets/js/lunr/*                linguist-vendored

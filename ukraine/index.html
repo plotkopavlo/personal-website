@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Saving Astronomy in Ukraine</title>
+
+<meta name="description" content="A partnership offer from the Ukrainian astronomical community. Read the recovery plan and reach the people running the initiative, linked to the SS43 sessions at EAS 2026." />
+
+<!-- Open Graph / social cards -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Saving Astronomy in Ukraine" />
+<meta property="og:description" content="A partnership offer from the Ukrainian astronomical community, linked to the SS43 sessions at EAS 2026." />
+<meta property="og:image" content="assets/og-image.jpg" />
+<meta property="og:url" content="https://plotkopavlo.com/ukraine/" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<link rel="icon" type="image/svg+xml" href="favicon.svg" />
+<link rel="stylesheet" href="fonts.css" />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<header id="topbar">
+  <div class="wrap bar">
+    <a class="mark" href="#top" aria-label="Saving Astronomy in Ukraine, home">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true">
+        <circle cx="12" cy="12" r="3.4" fill="var(--gold)" stroke="none"/>
+        <circle cx="12" cy="12" r="9" opacity=".5"/>
+        <path d="M12 1v3M12 20v3M1 12h3M20 12h3" opacity=".6"/>
+      </svg>
+      <b data-i18n="brand">Saving Astronomy in Ukraine</b>
+    </a>
+    <div class="bar-right">
+      <nav class="links" aria-label="Primary">
+        <a href="#about" data-i18n="nav.about">About</a>
+        <a href="#directions" data-i18n="nav.directions">Four directions</a>
+        <a href="#actions" data-i18n="nav.actions">How to help</a>
+        <a href="#contact" data-i18n="nav.contact">Contact</a>
+      </nav>
+      <div class="lang" role="group" aria-label="Language">
+        <button type="button" data-lang="en" aria-pressed="true">EN</button>
+        <span class="sep" aria-hidden="true">/</span>
+        <button type="button" data-lang="uk" aria-pressed="false">UK</button>
+      </div>
+      <button class="menu-btn" type="button" aria-label="Menu" aria-expanded="false">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main id="top">
+
+  <!-- HERO -->
+  <section class="hero">
+    <canvas id="starfield" aria-hidden="true"></canvas>
+    <div class="hero-glow" aria-hidden="true"></div>
+
+    <!-- SIGNATURE: Ukraine's observatories as a constellation -->
+    <svg class="constellation" viewBox="0 0 1000 720" fill="none" aria-hidden="true">
+      <g stroke="var(--gold)" stroke-width="1" opacity=".55" class="cx-lines">
+        <line x1="113" y1="189" x2="473" y2="136"/>
+        <line x1="473" y1="136" x2="791" y2="176"/>
+        <line x1="473" y1="136" x2="555" y2="440"/>
+        <line x1="555" y1="440" x2="484" y2="483"/>
+        <line x1="555" y1="440" x2="791" y2="176"/>
+        <line x1="113" y1="189" x2="484" y2="483"/>
+        <line x1="484" y1="483" x2="668" y2="636" stroke-dasharray="3 6" opacity=".4"/>
+      </g>
+      <g class="cx-stars">
+        <g class="star"><circle cx="113" cy="189" r="5.5" fill="var(--gold)"/><text x="113" y="171" fill="var(--star)" data-i18n="city.lviv">Lviv</text></g>
+        <g class="star"><circle cx="473" cy="136" r="7" fill="var(--gold)"/><text x="473" y="118" fill="var(--star)" data-i18n="city.kyiv">Kyiv</text></g>
+        <g class="star"><circle cx="791" cy="176" r="5.5" fill="var(--gold)"/><text x="791" y="158" fill="var(--star)" data-i18n="city.kharkiv">Kharkiv</text></g>
+        <g class="star"><circle cx="555" cy="440" r="5" fill="var(--gold)"/><text x="555" y="422" fill="var(--star)" data-i18n="city.mykolaiv">Mykolaiv</text></g>
+        <g class="star"><circle cx="484" cy="483" r="5.5" fill="var(--gold)"/><text x="484" y="507" fill="var(--star)" data-i18n="city.odesa">Odesa</text></g>
+        <g class="star lost"><circle cx="668" cy="636" r="5" fill="none" stroke="var(--dim)" stroke-width="1.3"/><text x="668" y="660" fill="var(--dim)" data-i18n="city.crimea">Crimea · lost 2014</text></g>
+      </g>
+    </svg>
+
+    <div class="wrap">
+      <div class="hero-copy">
+        <p class="eyebrow reveal" data-i18n="hero.eyebrow">An initiative of the Ukrainian astronomical community</p>
+        <h1 class="reveal" data-i18n="hero.h1">Saving Astronomy <em>in Ukraine</em></h1>
+        <p class="lede reveal" data-i18n="hero.lede">Two hundred years of astronomy, still working under fire. This is where partners, researchers, and friends of Ukrainian science find a way in.</p>
+        <div class="cta-row reveal">
+          <a class="btn btn-primary" data-link="plan" href="#"><span data-i18n="hero.cta.plan">Read the recovery plan</span> <span class="arw" aria-hidden="true">&rarr;</span></a>
+          <a class="btn btn-ghost" href="#contact" data-i18n="hero.cta.contact">Get in touch</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="scroll-cue" aria-hidden="true"><span class="ln"></span> <span data-i18n="hero.scroll">Scroll</span></div>
+  </section>
+
+  <!-- FIELD NOTES -->
+  <div class="notes">
+    <div class="wrap">
+      <div class="note"><div class="k" data-i18n="note.since.k">Since</div><div class="v">1821</div><div class="d" data-i18n="note.since.d">The oldest observatory still working, in Mykolaiv</div></div>
+      <div class="note"><div class="k" data-i18n="note.inst.k">Institutions</div><div class="v">10+</div><div class="d" data-i18n="note.inst.d">Active across Kyiv, Kharkiv, Odesa, Lviv and beyond</div></div>
+      <div class="note"><div class="k" data-i18n="note.pub.k">Published 2020&ndash;25</div><div class="v">800+</div><div class="d" data-i18n="note.pub.d">Papers, many written during blackouts and shelling</div></div>
+      <div class="note"><div class="k">UTR-2</div><div class="v" data-i18n="note.utr.v">World's largest</div><div class="d" data-i18n="note.utr.d">Decametric radio telescope, occupied for six months in 2022</div></div>
+    </div>
+  </div>
+
+  <!-- ABOUT -->
+  <section id="about">
+    <div class="wrap about">
+      <p class="section-label reveal" data-i18n="about.label">What this is</p>
+      <div class="about-grid">
+        <p class="lead reveal" data-i18n="about.lead">Not a request for aid, and not a list of problems waiting for someone else to solve them. Ukrainian astronomy knows its strengths, sees its limits clearly, and is offering a <b>partnership</b>.</p>
+        <div class="body reveal">
+          <p data-i18n="about.p1">Despite full-scale war, the community has kept its scientific, educational, and international potential alive. Observations continue at partially restored facilities. Students defend theses from bomb shelters. Papers keep appearing in the leading journals.</p>
+          <p data-i18n="about.p2">The recovery plan behind this page sets out where the field stands and what it needs next, structured around four interdependent directions. This site is the front door: a single place for partners and colleagues to understand the initiative and reach the people running it.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- DIRECTIONS -->
+  <section id="directions">
+    <div class="wrap">
+      <div class="dir-head">
+        <div>
+          <p class="section-label reveal" data-i18n="dir.label">The framework</p>
+          <h2 class="reveal" data-i18n="dir.h2">Four directions,<br>one system</h2>
+        </div>
+        <p class="dir-note reveal" data-i18n="dir.note">Not ranked by importance. They form a system in which a break in any one link undermines the whole.</p>
+      </div>
+
+      <div class="dir-grid">
+        <div class="dir reveal">
+          <span class="tag" data-i18n="dir.tag1">Direction 1</span>
+          <svg class="glyph" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.3" aria-hidden="true"><circle cx="8" cy="10" r="3"/><circle cx="24" cy="8" r="3"/><circle cx="16" cy="23" r="3"/><path d="M11 10l10-2M10 12l5 9M21 11l-5 9"/></svg>
+          <div class="name" data-i18n="dir.1.name">Human Capital and Scientific Networks</div>
+          <p class="desc" data-i18n="dir.1.desc">Science cannot exist without people. Keep the researchers, connect the diaspora, and turn scattered contacts into partnerships that last.</p>
+        </div>
+        <div class="dir reveal">
+          <span class="tag" data-i18n="dir.tag2">Direction 2</span>
+          <svg class="glyph" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.3" aria-hidden="true"><path d="M6 26l8-8M16 16l4-4"/><circle cx="22" cy="10" r="5"/><path d="M4 28l4-2M20 6l2-2"/></svg>
+          <div class="name" data-i18n="dir.2.name">Scientific and Research Infrastructure</div>
+          <p class="desc" data-i18n="dir.2.desc">Rebuild better, not just back. Define the science first, then the instruments, from radio arrays to a national astronomical data centre.</p>
+        </div>
+        <div class="dir reveal">
+          <span class="tag" data-i18n="dir.tag3">Direction 3</span>
+          <svg class="glyph" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.3" aria-hidden="true"><path d="M16 4v9M16 19v9M6 16h9M19 16h7"/><circle cx="16" cy="16" r="3.4"/></svg>
+          <div class="name" data-i18n="dir.3.name">Innovation and Economic Development</div>
+          <p class="desc" data-i18n="dir.3.desc">Wi-Fi, CCD sensors, and remote sensing all trace back to astronomy. It is a driver of recovery, not a peacetime luxury.</p>
+        </div>
+        <div class="dir reveal">
+          <span class="tag" data-i18n="dir.tag4">Direction 4</span>
+          <svg class="glyph" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.3" aria-hidden="true"><path d="M4 12l12-6 12 6-12 6z"/><path d="M9 15v6c0 2 14 2 14 0v-6M28 12v7"/></svg>
+          <div class="name" data-i18n="dir.4.name">Education and Public Engagement</div>
+          <p class="desc" data-i18n="dir.4.desc">From kindergarten to doctorate, astronomy is the portal into STEM, and the way a new generation of scientists is reproduced.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ACTIONS -->
+  <section id="actions" class="actions">
+    <div class="wrap">
+      <p class="section-label reveal" data-i18n="act.label">How to help</p>
+      <div class="act-grid">
+        <div class="act-intro reveal">
+          <p class="lead" data-i18n="act.lead">Five simple actions to start.</p>
+          <p data-i18n="act.intro">The most valuable support is not the kind that decides for Ukraine, but the kind that reinforces decisions Ukraine makes itself. Partnerships, not philanthropy. Long-term agreements, not one-off gestures.</p>
+        </div>
+        <ol class="acts reveal">
+          <li><span class="txt" data-i18n="act.1">Fund open access to journals and databases for Ukrainian institutions.</span></li>
+          <li><span class="txt" data-i18n="act.2">Include Ukrainian groups in mission consortia and telescope networks: CTAO, LOFAR, EVN, LSST.</span></li>
+          <li><span class="txt" data-i18n="act.3">Support joint PhD and postdoctoral programmes that give young scientists a real path home.</span></li>
+          <li><span class="txt" data-i18n="act.4">Co-organise training schools and educational programmes on proven formats.</span></li>
+          <li><span class="txt" data-i18n="act.5">Advocate for Ukraine at ESA and Horizon Europe.</span></li>
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section id="contact">
+    <div class="wrap">
+      <div class="contact-card reveal">
+        <div>
+          <p class="section-label" data-i18n="contact.label">First point of contact</p>
+          <h2 data-i18n="contact.h2">Start a conversation</h2>
+          <p class="sub" data-i18n="contact.sub">Ukrainian astronomy is offering a partnership built on real competencies and shared scientific questions. If you can open one of the doors on this page, reach out.</p>
+          <a class="btn btn-primary email-btn" data-link="email" href="#"><span data-i18n="contact.email">Email the team</span> <span class="arw" aria-hidden="true">&rarr;</span></a>
+        </div>
+        <div>
+          <div class="people">
+            <div class="person"><span class="nm" data-i18n="person.plotko">Pavlo Plotko</span><span class="rl" data-i18n="role.coorg">Co-organiser</span></div>
+            <div class="person"><span class="nm" data-i18n="person.sushch">Yurii Sushch</span><span class="rl" data-i18n="role.coorg">Co-organiser</span></div>
+            <div class="person"><span class="nm" data-i18n="person.frantseva">Kateryna Frantseva</span><span class="rl" data-i18n="role.coorg">Co-organiser</span></div>
+          </div>
+          <div class="doors">
+            <a class="door" href="https://eas2026programme.kuoni-congress.info/session/ss43a-saving-astronomy-in-ukraine-what-can-we-do-as-a-community" target="_blank" rel="noopener">
+              <span class="lbl">Session SS43a &middot; EAS 2026</span><span class="meta" data-i18n="door.ss43a">Thu, morning</span><span class="arw" aria-hidden="true">&rarr;</span>
+            </a>
+            <a class="door" href="https://eas2026programme.kuoni-congress.info/session/ss43b-saving-astronomy-in-ukraine-what-can-we-do-as-a-community" target="_blank" rel="noopener">
+              <span class="lbl">Session SS43b &middot; EAS 2026</span><span class="meta" data-i18n="door.ss43b">Thu, lunch</span><span class="arw" aria-hidden="true">&rarr;</span>
+            </a>
+            <a class="door" data-link="form" href="#" target="_blank" rel="noopener">
+              <span class="lbl" data-i18n="door.form.lbl">Comment on the recovery plan</span><span class="meta" data-i18n="door.form.meta">Feedback form</span><span class="arw" aria-hidden="true">&rarr;</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CLOSING -->
+  <div class="closing">
+    <div class="wrap">
+      <blockquote class="reveal" data-i18n="closing.quote">The sky above Ukraine is the same sky as above Leiden, Paris, or Chile. The answers have no borders.</blockquote>
+      <cite class="reveal" data-i18n="closing.cite">Prospective Recovery Plan for Ukrainian Astronomy</cite>
+    </div>
+  </div>
+
+</main>
+
+<footer>
+  <div class="wrap foot">
+    <span data-i18n="foot.left">Saving Astronomy in Ukraine &middot; SS43 &middot; EAS 2026</span>
+    <span class="accent" data-i18n="foot.right">A partnership of the Ukrainian astronomical community</span>
+  </div>
+</footer>
+
+<script src="main.js"></script>
+</body>
+</html>
